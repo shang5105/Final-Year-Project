@@ -1,0 +1,100 @@
+Apple Alternaria Leaf Spot
+Apple Black Rot
+Apple Brown Spot
+Apple Gray Spot
+Apple Healthy
+Apple Rust
+Apple Scab
+Blueberry Healthy
+Cassava Bacterial Blight
+Cassava Brown Streak Disease
+Cassava Green Mottle
+Cassava Healthy
+Cassava Mosaic Disease
+Cherry Healthy
+Cherry Powdery Mildew
+Chili Healthy
+Chili Leaf Curl
+Chili Leaf Spot
+Chili Whitefly
+Chili Yellowish
+Coffee Cercospora Leaf Spot
+Coffee Healthy
+Coffee Red Spider Mite
+Coffee Rust
+Corn Common Rust
+Corn Gray Leaf Spot
+Corn Healthy
+Corn Northern Leaf Blight
+Cucumber Diseased
+Cucumber Healthy
+Gauva Diseased
+Gauva Healthy
+Grape Black Measles
+Grape Black Rot
+Grape Healthy
+Grape Leaf Blight
+Jamun Diseased
+Jamun Healthy
+Lemon Diseased
+Lemon Healthy
+Mango Diseased
+Mango Healthy
+Orange Citrus Greening
+Peach Bacterial Spot
+Peach Healthy
+Pepper Bell Bacterial Spot
+Pepper Bell Healthy
+Pomegranate Diseased
+Pomegranate Healthy
+Potato Bacterial Wilt
+Potato Early Blight
+Potato Healthy
+Potato Late Blight
+Potato Nematode
+Potato Pests
+Potato Phytophthora
+Potato Virus
+Raspberry Healthy
+Rice Bacterial Blight
+Rice Brown Spot
+Rice Healthy
+Rice Leaf Blast
+Rice Neck Blast
+Rice Tungro
+Soybean Bacterial Blight
+Soybean Caterpillar
+Soybean Diabrotica Speciosa
+Soybean Downy Mildew
+Soybean Healthy
+Soybean Mosaic Virus
+Soybean Powdery Mildew
+Soybean Rust
+Soybean Southern Blight
+Strawberry Healthy
+Strawberry Leaf Scorch
+Sugercane Healthy
+Sugercane Mosaic
+Sugercane Red Rot
+Sugercane Rust
+Sugercane Yellow Leaf
+Tea Algal Leaf
+Tea Anthracnose
+Tea Bird Eye Spot
+Tea Brown Blight
+Tea Healthy
+Tea Red Leaf Spot
+Tomato Bacterial Spot
+Tomato Early Blight
+Tomato Healthy
+Tomato Late Blight
+Tomato Leaf Curl
+Tomato Leaf Mold
+Tomato Mosaic Virus
+Tomato Septoria Leaf Spot
+Tomato Spider Mites
+Tomato Target Spot
+Unknown
+Wheat Brown Rust
+Wheat Healthy
+Wheat Yellow Rust
